@@ -83,7 +83,7 @@ Data Analytics
 ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)  
 <br/>  
 <!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />    [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&hideBorder&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />    [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&hideBorder&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 <br/>  
 
  Github Stats  
