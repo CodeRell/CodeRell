@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=18F721&random=false&width=435&lines=Hello%2C+I'm+Jerrell+Young;I'm+a+DevOps+Engr.+%26+Solutions+Arch.+%3A;LETS+BUILD+SOMETHING!!!)](https://git.io/typing-svg)
 
-## 🪩 About Me
+## :sparkles: About Me
   
 ### :wave: Hello! I'm Jerrell, a DevOps Engineer who loves learning about technology. I'm really interested in how cloud computing and DevOps work together, and I'm dedicated to polishing my skills and expertise in both realms.
 #### 💻 Currently, my focus is on enriching my knowledge of AWS services and DevOps tools. I'm fascinated by the power of cloud technologies to revolutionize businesses and the efficiency that DevOps brings to the development lifecycle. 
