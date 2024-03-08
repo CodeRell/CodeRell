@@ -93,13 +93,8 @@ Data Analytics
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coderell&hideBorder&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" />  
 <br/>  
-<div align="center"><img src="https://raw.githubusercontent.com/madushadhanushka/github-readme/output/github-contribution-snake.svg">
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=rnzr9616&cover_image=true&hideBorder&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+<div align="center"><img src="https://raw.githubusercontent.com/madushadhanushka/github-readme/output/github-contribution-snake._image=true&hideBorder&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 <br/>  
 
-<br/> 
-<div align="center">
-<img src="https://www.twitch.tv/ruderell" align="center" />
 </div>  
