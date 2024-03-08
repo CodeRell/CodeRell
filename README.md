@@ -101,5 +101,5 @@ Data Analytics
 
 <br/> 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=coderell&&style=flat-square" align="center" />
+<img src="https://www.twitch.tv/ruderell" align="center" />
 </div>  
