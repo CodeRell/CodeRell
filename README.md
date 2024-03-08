@@ -97,4 +97,9 @@ Data Analytics
 
 <br/>  
 
+<div align="center">
+<p>Write something nice in my guest book:</p>
+<a href="https://github.com/CodeRell/CodeRell/issues/1"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+</div>
+
 </div>  
